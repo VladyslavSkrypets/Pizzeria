@@ -7,7 +7,7 @@
             "weight":"450 g",
             "price":"92.99",
             "prodURL":"catalog/margarita",
-            "path":"src/product_img/margarita.jpg",
+            "path":"images/product_img/margarita.jpg",
             "category":"classic"
         },
 
@@ -18,7 +18,7 @@
             "weight":"450 g",
             "price":"92.99",
             "prodURL":"catalog/marinara",
-            "path":"src/product_img/marinara.jpg",
+            "path":"images/product_img/marinara.jpg",
             "category":"classic"
         },
 
@@ -29,7 +29,7 @@
             "weight":"450 g",
             "price":"92.99",
             "prodURL":"catalog/four_seasons",
-            "path":"src/product_img/four_season.jpg",
+            "path":"images/product_img/four_season.jpg",
             "category":"classic"
         },
 
@@ -40,7 +40,7 @@
             "weight":"450 g",
             "price":"92.99",
             "prodURL":"catalog/carbonara",
-            "path":"src/product_img/carbonara.jpg",
+            "path":"images/product_img/carbonara.jpg",
             "category":"classic"
         },
 
@@ -51,7 +51,7 @@
             "weight":"755 g",
             "price":"237.99",
             "prodURL":"catalog/four_cheeses",
-            "path":"src/product_img/four_cheeses.jpg",
+            "path":"images/product_img/four_cheeses.jpg",
             "category":"premium"
         },
 
@@ -62,7 +62,7 @@
             "weight":"755 g",
             "price":"237.99",
             "prodURL":"catalog/crudo",
-            "path":"src/product_img/krudo.jpg",
+            "path":"images/product_img/krudo.jpg",
             "category":"premium"
         },
 
@@ -73,7 +73,7 @@
             "weight":"755 g",
             "price":"237.99",
             "prodURL":"catalog/neapoletano",
-            "path":"src/product_img/neapolitano.jpg",
+            "path":"images/product_img/neapolitano.jpg",
             "category":"premium"
         },
 
@@ -84,7 +84,7 @@
             "weight":"755 g",
             "price":"237.99",
             "prodURL":"catalog/montanara",
-            "path":"src/product_img/montanara.jpg",
+            "path":"images/product_img/montanara.jpg",
             "category":"premium"
         },
 
@@ -95,7 +95,7 @@
             "weight":"1000 g",
             "price":"679.99",
             "prodURL":"catalog/emiliana",
-            "path":"src/product_img/amiliana.jpg",
+            "path":"images/product_img/amiliana.jpg",
             "category":"legend"
         },
 
@@ -106,7 +106,7 @@
             "weight":"1000 g",
             "price":"679.99",
             "prodURL":"catalog/americano",
-            "path":"src/product_img/americano.jpg",
+            "path":"images/product_img/americano.jpg",
             "category":"legend"
         },
 
@@ -117,7 +117,7 @@
             "weight":"1000 g",
             "price":"679.99",
             "prodURL":"catalog/sardinia",
-            "path":"src/product_img/sardinia.jpg",
+            "path":"images/product_img/sardinia.jpg",
             "category":"legend"
         },
 
@@ -128,7 +128,7 @@
             "weight":"1000 g",
             "price":"679.99",
             "prodURL":"catalog/valtellina",
-            "path":"src/product_img/valtelina.jpg",
+            "path":"images/product_img/valtelina.jpg",
             "category":"legend"
         },
 
@@ -139,7 +139,7 @@
             "weight":"500 g",
             "price":"153.99",
             "prodURL":"catalog/calzone",
-            "path":"src/product_img/kalcone.jpg",
+            "path":"images/product_img/kalcone.jpg",
             "category":"custom"
         },
 
@@ -150,7 +150,7 @@
             "weight":"500 g",
             "price":"153.99",
             "prodURL":"catalog/ortolana",
-            "path":"src/product_img/ortola.jpg",
+            "path":"images/product_img/ortola.jpg",
             "category":"custom"
         },
 
@@ -161,7 +161,7 @@
             "weight":"500 g",
             "price":"153.99",
             "prodURL":"catalog/devil",
-            "path":"src/product_img/devil.jpg",
+            "path":"images/product_img/devil.jpg",
             "category":"custom"
         },
 
@@ -172,7 +172,7 @@
             "weight":"500 g",
             "price":"153.99",
             "prodURL":"catalog/capricciosa",
-            "path":"src/product_img/kaprinchose.jpg",
+            "path":"images/product_img/kaprinchose.jpg",
             "category":"custom"
         }
     ],
@@ -190,22 +190,22 @@
             {
                 "title": "Скидка на вторую пиццу!",
                 "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis sit fugiat deleniti architecto tempore, voluptatem id quis. Earum quos, officiis distinctio suscipit, quis cumque odit similique error optio sint vitae.",
-                "path":"src/slider_img/slide1.jpg"
+                "path":"images/slider_img/slide1.jpg"
             },
             {
                 "title": "Быстрая доставка!",
                 "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis sit fugiat deleniti architecto tempore, voluptatem id quis. Earum quos, officiis distinctio suscipit, quis cumque odit similique error optio sint vitae.",
-                "path":"src/slider_img/slide2.jpg"
+                "path":"images/slider_img/slide2.jpg"
             },
             {
                 "title": "Черная пятница!",
                 "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis sit fugiat deleniti architecto tempore, voluptatem id quis. Earum quos, officiis distinctio suscipit, quis cumque odit similique error optio sint vitae.",
-                "path":"src/slider_img/slide3.jpg"
+                "path":"images/slider_img/slide3.jpg"
             },
             {
                 "title": "Бесплатная доставка!",
                 "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis sit fugiat deleniti architecto tempore, voluptatem id quis. Earum quos, officiis distinctio suscipit, quis cumque odit similique error optio sint vitae.",
-                "path":"src/slider_img/slide4.jpg"
+                "path":"images/slider_img/slide4.jpg"
             }
         ]
     },
