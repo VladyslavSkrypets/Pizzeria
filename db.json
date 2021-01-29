@@ -1,8 +1,8 @@
 {
     "products":[
         {
-            "title":"Маргарита",
-            "desc":"Томатный соус, моцарелла и орегано.",
+            "title":"Margarita",
+            "desc":"Tomato sauce, mozzarella and oregano.",
             "id": 0,
             "weight":"450 g",
             "price":"92.99",
@@ -12,8 +12,8 @@
         },
 
         {
-            "title":"Маринара",
-            "desc":"Томатный соус, чеснок и базилик.",
+            "title":"Marinara",
+            "desc":"Tomato sauce, garlic and basil.",
             "id": 1,
             "weight":"450 g",
             "price":"92.99",
@@ -23,8 +23,8 @@
         },
 
         {
-            "title":"Четыре сезона",
-            "desc":"Томатный соус, моцарелла, грибы, ветчина, артишоки, оливки и орегано.",
+            "title":"Four seasons",
+            "desc":"Tomato sauce, mozzarella, mushrooms, ham, artichokes, olives and oregano.",
             "id": 2,
             "weight":"450 g",
             "price":"92.99",
@@ -34,8 +34,8 @@
         },
 
         {
-            "title":"Карбонара",
-            "desc":"Томатный соус, моцарелла, пармезан, яйца, бекон.",
+            "title":"Carbonara",
+            "desc":"Tomato sauce, mozzarella, parmesan, eggs, bacon.",
             "id": 3,
             "weight":"450 g",
             "price":"92.99",
@@ -45,8 +45,8 @@
         },
 
         {
-            "title":"Четыре сыра",
-            "desc":"Томатный соус, моцарелла, пармезан, сыр горгонзола, артишоки и орегано.",
+            "title":"Four cheeses",
+            "desc":"Tomato sauce, mozzarella, parmesan, gorgonzola cheese, artichokes and oregano.",
             "id": 4,
             "weight":"755 g",
             "price":"237.99",
@@ -56,8 +56,8 @@
         },
 
         {
-            "title":"Крудо",
-            "desc":"Томатный соус, моцарелла и пармская ветчина.",
+            "title":"Crudo",
+            "desc":"Tomato sauce, mozzarella and parma ham.",
             "id": 5,
             "weight":"755 g",
             "price":"237.99",
@@ -67,19 +67,19 @@
         },
 
         {
-            "title":"Неаполетано",
-            "desc":"Томатный соус, моцарелла, орегано, анчоусы.",
+            "title":"Neapolitano",
+            "desc":"Tomato sauce, mozzarella, oregano, anchovies.",
             "id": 6,
             "weight":"755 g",
             "price":"237.99",
-            "prodURL":"catalog/neapoletano",
+            "prodURL":"catalog/neapolitano",
             "path":"images/product_img/neapolitano.jpg",
             "category":"premium"
         },
 
         {
-            "title":"Монтанара",
-            "desc":"Томатный соус, моцарелла, грибы, пепперони и Страккино (мягкий сыр).",
+            "title":"Montanara",
+            "desc":"Tomato sauce, mozzarella, mushrooms, pepperoni and Strakkino (soft cheese).",
             "id": 7,
             "weight":"755 g",
             "price":"237.99",
@@ -89,8 +89,8 @@
         },
 
         {
-            "title":"Эмилиана",
-            "desc":"Томатный соус, моцарелла, баклажаны, отварной картофель и колбаса.",
+            "title":"Emiliana",
+            "desc":"Tomato sauce, mozzarella, eggplant, boiled potatoes and sausage.",
             "id": 8,
             "weight":"1000 g",
             "price":"679.99",
@@ -100,8 +100,8 @@
         },
 
         {
-            "title":"Американо",
-            "desc":"Томатный соус, моцарелла, колбаса и картофель фри.",
+            "title":"Americano",
+            "desc":"Tomato sauce, mozzarella, sausage and French fries.",
             "id": 9,
             "weight":"1000 g",
             "price":"679.99",
@@ -111,8 +111,8 @@
         },
 
         {
-            "title":"Сардиния",
-            "desc":"Томатный соус, моцарелла, сыр пекорино и острая салями.",
+            "title":"Sardinia",
+            "desc":"Tomato sauce, mozzarella, pecorino cheese and spicy salami.",
             "id": 10,
             "weight":"1000 g",
             "price":"679.99",
@@ -122,8 +122,8 @@
         },
 
         {
-            "title":"Вальтеллина",
-            "desc":"Томатный соус, моцарелла, бресаола, хлопья пармезана и руккола.",
+            "title":"Valtellina",
+            "desc":"Tomato sauce, mozzarella, bresaola, parmesan flakes and arugula.",
             "id": 11,
             "weight":"1000 g",
             "price":"679.99",
@@ -133,8 +133,8 @@
         },
 
         {
-            "title":"Кальцоне",
-            "desc":"Томатный соус, моцарелла, ветчина, грибы, артишоки, анчоусы и орегано.",
+            "title":"Calzone",
+            "desc":"Tomato sauce, mozzarella, ham, mushrooms, artichokes, anchovies and oregano.",
             "id": 12,
             "weight":"500 g",
             "price":"153.99",
@@ -144,8 +144,8 @@
         },
 
         {
-            "title":"Ортолана",
-            "desc":" Томатный соус, моцарелла и ассорти из овоще.",
+            "title":"Ortolana",
+            "desc":"Tomato sauce, mozzarella and assorted vegetables.",
             "id": 13,
             "weight":"500 g",
             "price":"153.99",
@@ -155,8 +155,8 @@
         },
 
         {
-            "title":"Дьавола",
-            "desc":"Томатный соус, моцарелла, острая салями и перец чили.",
+            "title":"The devil",
+            "desc":"Tomato sauce, mozzarella, spicy salami and chili.",
             "id": 14,
             "weight":"500 g",
             "price":"153.99",
@@ -166,8 +166,8 @@
         },
 
         {
-            "title":"Каприччиоза",
-            "desc":"Томатный соус, моцарелла, ветчина, артишоки, грибы и оливки.",
+            "title":"Capriccioso",
+            "desc":"Tomato sauce, mozzarella, ham, artichokes, mushrooms and olives.",
             "id": 15,
             "weight":"500 g",
             "price":"153.99",
@@ -188,22 +188,22 @@
     "suggestions": {
         "actions": [
             {
-                "title": "Скидка на вторую пиццу!",
+                "title": "Second pizza discount!",
                 "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis sit fugiat deleniti architecto tempore, voluptatem id quis. Earum quos, officiis distinctio suscipit, quis cumque odit similique error optio sint vitae.",
                 "path":"images/slider_img/slide1.jpg"
             },
             {
-                "title": "Быстрая доставка!",
+                "title": "Fast shipping!",
                 "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis sit fugiat deleniti architecto tempore, voluptatem id quis. Earum quos, officiis distinctio suscipit, quis cumque odit similique error optio sint vitae.",
                 "path":"images/slider_img/slide2.jpg"
             },
             {
-                "title": "Черная пятница!",
+                "title": "Black Friday!",
                 "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis sit fugiat deleniti architecto tempore, voluptatem id quis. Earum quos, officiis distinctio suscipit, quis cumque odit similique error optio sint vitae.",
                 "path":"images/slider_img/slide3.jpg"
             },
             {
-                "title": "Бесплатная доставка!",
+                "title": "Free shipping!",
                 "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis sit fugiat deleniti architecto tempore, voluptatem id quis. Earum quos, officiis distinctio suscipit, quis cumque odit similique error optio sint vitae.",
                 "path":"images/slider_img/slide4.jpg"
             }
