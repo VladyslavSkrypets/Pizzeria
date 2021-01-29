@@ -110,6 +110,7 @@ function Router(hash) {
     }
     
     else {
+        window.location.hash = '#home';
         pageContent.innerHTML = homePage({
             slide1: actions[0].path,
             slide2: actions[1].path,
