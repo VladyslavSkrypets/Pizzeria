@@ -180,7 +180,7 @@ function cartPage () {
                     <div class="price">Total cost: <span id="total_price"></span></div>
                 </div>
                 <div class="submit_btn">
-                    <a class="submit-order-btn" href="#order">Confirm</a>
+                    <a class="submit-order-btn" href="#order">Подтвердить</a>
                 </div>
             </div>`
 }
@@ -263,11 +263,11 @@ function orderFormPage () {
                             </div>
                             <div class="inputfield">
                                     <label>Payment method</label>
-                                    <input id="Payment" type="text" class="input" pattern="Наличные|Карта" placeholder="Наличные/карта" required>
+                                    <input id="Payment" type="text" class="input" pattern="Cash|Card" placeholder="Cash/Card" required>
                             </div>  
                             <div class="inputfield">
                                     <label>Address</label>
-                                    <textarea id="Address" class="textarea" placeholder="ул.Южная3,кв.123" required></textarea>
+                                    <textarea id="Address" class="textarea" placeholder="South street 3, apartment 123" required></textarea>
                             </div> 
                             <div class="inputfield terms">
                                 <label class="check">
