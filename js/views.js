@@ -180,7 +180,7 @@ function cartPage () {
                     <div class="price">Total cost: <span id="total_price"></span></div>
                 </div>
                 <div class="submit_btn">
-                    <a class="submit-order-btn" href="#order">Подтвердить</a>
+                    <a class="submit-order-btn" href="#order">Confirm</a>
                 </div>
             </div>`
 }
