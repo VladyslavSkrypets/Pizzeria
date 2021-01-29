@@ -329,7 +329,7 @@ function cartItem(obj) {
                             <img src="${obj.path}" alt="">
                         </div>
                         <div class="components_box">
-                            <div class="composition text">Состав</div>
+                            <div class="composition text">Composition</div>
                             <div class="pizza_composition">
                                 <p>${obj.desc}</p>
                             </div>
@@ -344,7 +344,7 @@ function cartItem(obj) {
                                 <span id="prod_price" class="product-block__price">${obj.price}</span>
                                 <span class="product-block__currency">UAH.</span>
                             </div>
-                            <a href="#${obj.href}" class="remove-btn">Удалить</a>
+                            <a href="#${obj.href}" class="remove-btn">Remove</a>
                         </div>
                     </div>
                 </div>
