@@ -299,7 +299,7 @@ function itemPage (obj) {
                                 <img src="${obj.path}" alt="">
                             </div>
                             <div class="components_box">
-                                <div class="composition text">Состав</div>
+                                <div class="composition text">Composition</div>
                                 <div class="pizza_composition">
                                     <p>${obj.desc}</p>
                                 </div>
