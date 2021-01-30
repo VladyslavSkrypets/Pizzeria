@@ -180,7 +180,7 @@ function cartPage () {
                     <div class="price">Total cost: <span id="total_price"></span></div>
                 </div>
                 <div class="submit_btn">
-                    <a class="submit-order-btn" href="#order">Подтвердить</a>
+                    <a class="submit-order-btn" href="#order">Confirm</a>
                 </div>
             </div>`
 }
@@ -309,7 +309,7 @@ function itemPage (obj) {
                                     <span class="product-block__price">${obj.price}</span>
                                     <span class="product-block__currency">UAH.</span>
                                 </div>
-                                <a href="#${obj.href}" class="to-cart-btn">В корзину</a>
+                                <a href="#${obj.href}" class="to-cart-btn">Add to cart</a>
                             </div>
                         </div>
                     </div>
